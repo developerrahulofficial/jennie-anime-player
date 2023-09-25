@@ -55,13 +55,6 @@
 
 <br>
 
-## 🤗 Download
-
-[![Total Downloads](https://img.shields.io/github/downloads/Cosmicoppai/LiSA/total.svg?style=for-the-badge)](https://github.com/Cosmicoppai/LiSA/releases)
-
-> Note: Currently only windows executables are provided.
-
-Download the [latest release](https://github.com/Cosmicoppai/LiSA/releases) from here and extract the zip file.
 
 ## 📖 Installation
 
@@ -108,7 +101,13 @@ Download the [latest release](https://github.com/Cosmicoppai/LiSA/releases) from
 
 5. Add `ffmpeg` executable to `root folder` or in `PATH` Var.
 
-6. Build package using
+6. run package using
+
+    ```
+    npm start
+    ```
+    
+7. Build package using
 
     ```cli
     npm run build:package:windows
@@ -127,113 +126,6 @@ Note:
 <br>
 
 ## 😁 Demo
-
-### Screenshots
-
-![search](demo_images/ss_search.png)
-_Search results for Bakuman_
-
-![Anime Details Page](demo_images/ss_anime_details.png)
-_Episode details of Bakuman_
-
-![Video Player](demo_images/ss_play_episode.png)
-_Built-in Video Player on LiSA_
-
-![Download Manager and Library](demo_images/ss_download_manager.png)
-_Download Manager and Library_
-
-![Explore Page](demo_images/ss_explore.png)
-_Explore Page with filters_
-
-https://user-images.githubusercontent.com/66635990/204451842-76fdbbd0-3476-48fd-a1dd-77eff145a432.mp4
-
-## Future Plans
-
--   UI Improvement
--   Watchlist
--   Continue Watching
--   Download episodes with custom range
-
-## 🤔 FAQ
-
-### Q) How can I download detective conan's episodes from 10 to 30?
-
--> Search for the anime with `detective conan`, on the anime page you get **Download all** option, this will start the batch download of all the episodes present on that page.
-
-### Q) Where can I access all the downloaded episodes?
-
--> You can either view them on the Download page of LiSA , OR Visit `LiSA-win32-x64\resources\downloads\` on windows file explorer.
-
-### Q) Where can I view recommendations, if I liked Kimetsu no Yaiba?
-
--> Search for the anime, in this case `Kimetsu no Yaiba`, scroll down there you see a tab recommendations.
-
-### Q) How can I switch to the external player?
-
--> In video player, on the bottom right click on `external`, choose your favourite video player, [currently supported players](#supported-external-players).
-
-### Q) How do I download Episode 8 of Mob Psycho III?
-
--> Visit the episode, you want to download, select the language, and resolution you want to download in, the downloud will start, the status of which you can check from Download manager.
-
-### Q) Do I have to create any user account to stream or download anime?
-
--> No, you do not need to sign up for an account to stream, explore or download anime.
-
-## 😶‍🌫️ Supported Websites
-
-Note: In the following version the user can only download from animepahe, more websites to come in future. <br>
-| Website | Sub/Dub selection | Supported resolutions | File Size |
-|--- |--- |--- |--- |
-| [AnimePahe](https://animepahe.com/) | Yes | 720p, 1080p | 720p: ~150MB, 1080p: ~200MB |
-
-## 📺 Supported External Players
-
-### MPV
-
-To install mpv, run the following command from the command line or PowerShell:
-
-```cli
-choco install mpv
-```
-
-OR
-
-Visit: [Official MPV site](https://mpv.io/installation/)
-
-Make sure mpv is added to Path.<br> <br>
-
-### VLC Media Player
-
-Download and Install VLC Media player form [here](https://www.videolan.org/vlc/download-windows.html).
-
-<br>
-
-## Filters
-
--   TV
--   Movie
--   Airing
--   Upcoming
--   By Popularity
--   OVA
--   ONA
--   Special
--   Favourite
-
-## 🤝 CONTRIBUTING
-
-Contributions, issues, and feature requests are welcome! See [CONTRIBUTING.md](./contributing.md)
-
-## ⭐ SUPPORT
-
-If this project is helpful to you and love our work and feels like showing love/appreciation, give a ⭐, AND 😉...
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SayAnime)
-
-## 📄 LICENSE
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Cosmicoppai/LiSA/blob/main/LICENSE) file for details.
 
 <br>
 
