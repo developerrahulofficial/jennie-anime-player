@@ -127,6 +127,12 @@ Note:
 
 ## 😁 Demo
 
+![Annotation 2023-09-25 171308 - Copy](https://github.com/developerrahulofficial/jennie-anime-player/assets/83329806/4233126c-047a-45d9-a1a5-98bc2b2969bb)
+![Annotation 2023-09-25 171502 - Copy](https://github.com/developerrahulofficial/jennie-anime-player/assets/83329806/d99a006d-8f15-4baa-94c4-c1178e852dc0)
+![Annotation 2023-09-25 171419](https://github.com/developerrahulofficial/jennie-anime-player/assets/83329806/6469bfc9-b3d0-42ad-bf7d-c8b98d338f08)
+![Annotation 2023-09-25 171355 - Copy](https://github.com/developerrahulofficial/jennie-anime-player/assets/83329806/d3a31367-097c-4eba-8224-c5c91b7821cb)
+
+
 <br>
 
 ## DISCLAIMER
