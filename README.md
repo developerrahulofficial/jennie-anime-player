@@ -14,7 +14,7 @@
 
 </div>
 
-# LiSA
+# Jennie - Anime player
 
 > A Desktop application, for streaming and downloading your favourite anime.
 
