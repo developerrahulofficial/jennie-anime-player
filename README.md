@@ -14,7 +14,7 @@
 
 </div>
 
-# Jennie - Anime player
+# Evil - Anime player
 
 > A Desktop application, for streaming and downloading your favourite anime.
 
